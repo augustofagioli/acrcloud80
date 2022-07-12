@@ -1,0 +1,8 @@
+{
+    "name": "afagioli/acrcloud",
+    "description": "PHP SDF for AcrCloud",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.0"
+    }
+}
